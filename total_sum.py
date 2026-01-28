@@ -1,1 +1,2 @@
-# this file calculate total sum of all products
+def calculate_total(values):
+    return sum(values)
